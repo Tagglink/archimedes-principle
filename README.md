@@ -9,4 +9,5 @@ However, feel free to download the binaries: https://github.com/Tagglink/game-ph
 Archimedes principle demo:
 ![](https://puu.sh/FqSlq/016b984be2.gif)
 
+## Using the binary
 Right-click in the window to open up a menu that lets you switch between demos.

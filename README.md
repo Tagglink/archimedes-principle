@@ -1,7 +1,6 @@
 # Game Physics Course
 A collection of demos created as part of a course in Game Physics. 
 
-Rendered through a simple implementation of the GLUT library.
 As the rendering engine is proprietary software by the University of Skövde I'm afraid I can't upload it here.
 
 However, feel free to download the binaries: https://github.com/Tagglink/game-physics-course/releases
